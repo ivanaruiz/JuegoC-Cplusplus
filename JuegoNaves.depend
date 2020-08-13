@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1595909123 source:c:\users\meli\desktop\desktop\c++\juegonaves\src\asteroide.cpp
+	"Asteroide.h"
+
+1595908690 c:\users\meli\desktop\desktop\c++\juegonaves\include\asteroide.h
+	"Nave.h"
+	"windows.h"
+
+1595907995 c:\users\meli\desktop\desktop\c++\juegonaves\include\nave.h
+	<stdio.h>
+	<iostream>
+	"windows.h"
+	<stdlib.h>
+	<conio.h>
+
+1595991307 source:c:\users\meli\desktop\desktop\c++\juegonaves\src\bala.cpp
+	"Bala.h"
+	<stdlib.h>
+	<iostream>
+
+1595904728 c:\users\meli\desktop\desktop\c++\juegonaves\include\bala.h
+	<stdio.h>
+
+1595994083 source:c:\users\meli\desktop\desktop\c++\juegonaves\src\nave.cpp
+	"Nave.h"
+
+1597351146 source:c:\users\meli\desktop\desktop\c++\juegonaves\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"list"
+	"Nave.h"
+	"Asteroide.h"
+	"Bala.h"
+	"registrarPuntuaciones/lista.h"
+	"Lista.h"
+	<string>
+	<string.h>
+
+1595904470 c:\users\meli\desktop\desktop\c++\juegonaves\funciones.h
+
+1595827865 c:\users\meli\desktop\desktop\c++\juegonaves\registrarpuntuaciones\lista.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1595991914 c:\users\meli\desktop\desktop\c++\juegonaves\lista.h
+	"registrarPuntuaciones/lista.h"
+
+1595909824 source:c:\users\meli\desktop\desktop\c++\juegonaves\lista.cpp
+	"registrarPuntuaciones/lista.h"
+
+1595904523 source:c:\users\meli\desktop\desktop\c++\juegonaves\funciones.cpp
+
+1595904523 c:\users\meli\desktop\desktop\c++\juegonaves\funciones.cpp
+

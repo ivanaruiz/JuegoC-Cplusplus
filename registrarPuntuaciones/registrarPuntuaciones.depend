@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1595828469 source:c:\users\meli\desktop\desktop\c++\juegonaves\registrarpuntuaciones\main.c
+	"lista.h"
+
+1595827865 c:\users\meli\desktop\desktop\c++\juegonaves\registrarpuntuaciones\lista.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1595827838 source:c:\users\meli\desktop\desktop\c++\juegonaves\registrarpuntuaciones\lista.c
+	"lista.h"
+
+1595741469 source:c:\users\meli\desktop\desktop\c++\juegonaves\registrarpuntuaciones\mainpuntuaciones.c
+
