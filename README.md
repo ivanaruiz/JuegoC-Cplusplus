@@ -10,9 +10,7 @@ En caso de que se descargue el juego, hay que descargarse el archivo JuegoNaves.
 Es decir:
 
 Juego->   //carpeta
+        JuegoNaves.exe
+        registrarPuntuaciones->     //subcarpeta
+                registrarPuntuaciones.exe
 
-    JuegoNaves.exe
-
-    registrarPuntaciones->    //subcarpeta
-
-        registrarPuntuaciones.exe
