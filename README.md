@@ -8,7 +8,11 @@ IMPORTANTE ACLARACIÓN:
 En caso de que se descargue el juego, hay que descargarse el archivo JuegoNaves.exe, guardarlo en una carpeta, y dentro de la misma carpeta también debe descargarse otra carpeta llamada registrarPuntuaciones. Puesto que el archivo .exe necesita de la ruta de acceso de esa última carpeta para acceder al registro de puntuaciones. Dentro de ella debe encontrarse copiarse el archivo registrarPuntuaciones.exe.
 
 Es decir:
+
 Juego->   //carpeta
+
     JuegoNaves.exe
+
     registrarPuntaciones->    //subcarpeta
+
         registrarPuntuaciones.exe
